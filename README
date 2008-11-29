@@ -1,0 +1,11 @@
+manincure.rb v0.6
+
+A Ruby script I use to generate all the preset info off of the Mac presets .plist for using the Handbrake CLI. This script was taken from a post on the Handbrake forums here:
+
+http://forum.handbrake.fr/viewtopic.php?f=4&t=3528&p=19317&hilit=ruby#p19317 (jbrjake)
+
+The script will produce output something like this:
+
+http://gist.github.com/30256
+
+ 
